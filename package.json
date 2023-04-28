@@ -1,0 +1,22 @@
+{
+  "name": "primeira-aplicacao-eletronjs",
+  "version": "1.0.0",
+  "description": "Minha primeira aplicação com electron js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyrtonPereira1996/primeira-aplicacao-electronjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyrtonPereira1996/primeira-aplicacao-electronjs/issues"
+  },
+  "homepage": "https://github.com/AyrtonPereira1996/primeira-aplicacao-electronjs#readme",
+  "dependencies": {
+    "eletron": "^0.0.1-security"
+  }
+}
